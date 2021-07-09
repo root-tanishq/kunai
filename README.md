@@ -1,9 +1,4 @@
 # kunai
-   __ __               _ 
-  / //_/_ _____  ___ _(_)
- / ,< / // / _ \/ _ `/ / 
-/_/|_|\_,_/_//_/\_,_/_/  
-            -Boy From Future
 A simple python script to let you see your index.html from a server request
 
 -------------USAGE-------------
